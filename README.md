@@ -28,8 +28,8 @@ With **7 years of experience in Customer Service** and certifications from **Hac
 
 ## 🎓 Education & Certifications  
 
+- 🎓 **Universitas Dian Nuswantoro Semarang** - D3 Teknik Informatika  
 - 📜 **Hacktiv8 Data Science & Data Analyst Bootcamps**  
-- 📜 **IT System Administration (Ongoing)**  
 
 ---
 
