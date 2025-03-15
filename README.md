@@ -7,8 +7,7 @@
 
 ---
 
-👋 **Hi!** I'm **Yasmine**, a **Data Analyst** passionate about **SQL, data-driven insights, and IT system administration**.  
-With **7+ years in Customer Service** and certifications from **Hacktiv8**, I specialize in **data analytics, SLA monitoring, and real-time visualization**.  
+👋 **Hi!** I'm **Yasmine**, a **Data Analyst** passionate about **SQL, data-driven insights, and IT system administration**. With **7+ years in Customer Service** and certifications from **Hacktiv8**, I specialize in **data analytics, SLA monitoring, and real-time visualization**.  
 
 ## 🚀 What I Do  
 - 🔹 **SQL & Database Management** – PostgreSQL, MySQL, ETL  
@@ -16,8 +15,8 @@ With **7+ years in Customer Service** and certifications from **Hacktiv8**, I sp
 - ⚙️ **IT System Administration** – Automation, SLA compliance  
 
 ## 📫 Let’s Connect!  
-🔗 **LinkedIn:** https://www.linkedin.com/in/yasminenaraindas-setiadi/ 
-📩 **Email:** ysmnaraindas.work@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/yasminenaraindas-setiadi/ 
+- 📩 **Email:** ysmnaraindas.work@gmail.com  
 
 ---
 
